@@ -115,12 +115,6 @@ namespace SqlDocumentRender
 
         public string CreateOutputToString(QueryMapContainer output, bool tableFormatColumns)
         {
-            string jout = JsonConvert.SerializeObject(output);
-
-            using (var j = File.CreateText(@"c:\\michaelxx\query.json"))
-            {
-                j.WriteLine(jout);
-            }
 
             var memStream = new MemoryStream();
             using (StreamWriter file = new StreamWriter(memStream))
