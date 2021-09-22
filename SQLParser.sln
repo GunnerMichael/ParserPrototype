@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLParser", "SQLParser\SQLParser.csproj", "{6186774D-E6A9-404C-96C8-449F96BA07CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryMap", "QueryMap\QueryMap.csproj", "{12017262-6F3D-489B-9523-1D393E80F46D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlParserWrapper", "SqlParserWrapper\SqlParserWrapper.csproj", "{5218FC65-8B0F-4021-B338-915773CE5B5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlDocumentRender", "SqlDocumentRender\SqlDocumentRender.csproj", "{2DA9F3E7-A6E8-48F5-8467-8C10021C1268}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColumnMapperGenerator", "ColumnMapperGenerator\ColumnMapperGenerator.csproj", "{11F2521C-D86A-41D7-9443-C567ACEEB83A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1450F1EE-4181-42EA-885F-1F965E88045D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6186774D-E6A9-404C-96C8-449F96BA07CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6186774D-E6A9-404C-96C8-449F96BA07CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6186774D-E6A9-404C-96C8-449F96BA07CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6186774D-E6A9-404C-96C8-449F96BA07CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12017262-6F3D-489B-9523-1D393E80F46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12017262-6F3D-489B-9523-1D393E80F46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12017262-6F3D-489B-9523-1D393E80F46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12017262-6F3D-489B-9523-1D393E80F46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5218FC65-8B0F-4021-B338-915773CE5B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5218FC65-8B0F-4021-B338-915773CE5B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5218FC65-8B0F-4021-B338-915773CE5B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5218FC65-8B0F-4021-B338-915773CE5B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA9F3E7-A6E8-48F5-8467-8C10021C1268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA9F3E7-A6E8-48F5-8467-8C10021C1268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA9F3E7-A6E8-48F5-8467-8C10021C1268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA9F3E7-A6E8-48F5-8467-8C10021C1268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F2521C-D86A-41D7-9443-C567ACEEB83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F2521C-D86A-41D7-9443-C567ACEEB83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F2521C-D86A-41D7-9443-C567ACEEB83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F2521C-D86A-41D7-9443-C567ACEEB83A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5816B1CD-A6C7-4FF9-BE28-64E0C49C736C}
+	EndGlobalSection
+EndGlobal

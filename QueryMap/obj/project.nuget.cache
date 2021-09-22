@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cU1v/oI4q6G/n2shAYQj3GFDGGCtPvxE1RKV51nGjHKb94kq+zndeFZVMxY71hWxOgrKM/q6LnHM8V7np0Ryew==",
+  "success": true,
+  "projectFilePath": "C:\\michaelxx\\repo\\SqlParser\\ExperimentalSQLParser\\QueryMap\\QueryMap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35522\\.nuget\\packages\\microsoft.sqlserver.transactsql.scriptdom\\150.4897.1\\microsoft.sqlserver.transactsql.scriptdom.150.4897.1.nupkg.sha512"
+  ],
+  "logs": []
+}

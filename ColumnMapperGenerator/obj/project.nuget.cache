@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KCiARspGrycKO24ZfB1RDdDIpAOdYK9kxa91yNw0H/EuAWTpaw24eycmgR3V4vNTaT/VRtfXci8wuYHZI5NjIg==",
+  "success": true,
+  "projectFilePath": "C:\\michaelxx\\repo\\SqlParser\\ExperimentalSQLParser\\ColumnMapperGenerator\\ColumnMapperGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35522\\.nuget\\packages\\microsoft.sqlserver.transactsql.scriptdom\\150.4897.1\\microsoft.sqlserver.transactsql.scriptdom.150.4897.1.nupkg.sha512",
+    "C:\\Users\\35522\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

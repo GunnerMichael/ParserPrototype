@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "QueryMap/1.0.0": {
+        "dependencies": {
+          "SqlParserWrapper": "1.0.0"
+        },
+        "runtime": {
+          "QueryMap.dll": {}
+        }
+      },
+      "Microsoft.SqlServer.TransactSql.ScriptDom/150.4897.1": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.SqlServer.TransactSql.ScriptDom.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4897.1"
+          }
+        }
+      },
+      "SqlParserWrapper/1.0.0": {
+        "dependencies": {
+          "Microsoft.SqlServer.TransactSql.ScriptDom": "150.4897.1"
+        },
+        "runtime": {
+          "SqlParserWrapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QueryMap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.SqlServer.TransactSql.ScriptDom/150.4897.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ksYyHU+XS6VOR9d6XFaQwNFBbkR3yl1Q5zP48uzdh4OZgP4pVCAsoaeQsZQKdpnYozRTM13X601sA39MER4J/g==",
+      "path": "microsoft.sqlserver.transactsql.scriptdom/150.4897.1",
+      "hashPath": "microsoft.sqlserver.transactsql.scriptdom.150.4897.1.nupkg.sha512"
+    },
+    "SqlParserWrapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

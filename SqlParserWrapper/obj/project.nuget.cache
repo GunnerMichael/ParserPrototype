@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MduHutQxDTOQUv8XZ4EsiYLxDzs47FLXX3bvnR11LcOx8GQO7EvHSWoKFG9WBIcVwhUA7kgTij44J6AGkoUGqA==",
+  "success": true,
+  "projectFilePath": "C:\\michaelxx\\repo\\SqlParser\\ExperimentalSQLParser\\SqlParserWrapper\\SqlParserWrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35522\\.nuget\\packages\\microsoft.sqlserver.transactsql.scriptdom\\150.4897.1\\microsoft.sqlserver.transactsql.scriptdom.150.4897.1.nupkg.sha512"
+  ],
+  "logs": []
+}
